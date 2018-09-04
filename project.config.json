@@ -8,7 +8,7 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "1.7.2",
+	"libVersion": "2.2.5",
 	"appid": "wx8174f411e9ee8e2d",
 	"projectname": "SmartClass",
 	"condition": {
