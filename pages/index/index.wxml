@@ -8,6 +8,6 @@
     </block>
   </view>
   <view class="usermotto">
-    <button class=''>进入Smart Class</button>
+    <button bindtap='goinClass'>进入Smart Class</button>
   </view>
 </view>

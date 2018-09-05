@@ -14,6 +14,11 @@ Page({
       url: '../logs/logs'
     })
   },
+  goinClass: function () {
+    wx.navigateTo({
+      url: '../class/class'
+    })
+  },
   onLoad: function () {
     if (app.globalData.userInfo) {
       this.setData({
